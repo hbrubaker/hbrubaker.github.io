@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head> 
+  <meta charset="utf-8">
+  <meta name="viewpoint" content="width=device-width, inital-scale=1">
+  <title>United States 2024 National Election Results - Which states voted red/blue?</title>
+  <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+
+  <header class="article-header">United States 2024 National Election Results - Which states voted red/blue?</header>
+
+  <main class="article-container">
+
+    <h1>United States 2024 National Election Results - Which states voted red/blue?</h1>
+
+    <p>Red - Republican | Blue - Democratic</p>
+
+    <p>Red - Republican | Blue - Democratic</p>
+
+    <!--<iframe title="United States 2024 National Election Results" aria-label="Choropleth map" id="datawrapper-chart-HiHSM" src="https://datawrapper.dwcdn.net/HiHSM/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="473" data-external="1"></iframe><script type="text/javascript">(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();</script>
+
+    <iframe title="2024 National Election Results" aria-label="Choropeth map" id="datawrapper-chart-zL67h" src=https://datawrapper.dwcdn.net/zL67h/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="554" data-external="1"></iframe><script type="text/javascript">(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();</script>
+    <!-- End map section -->
+
+    <p>Red - Republican | Blue - Democratic</p>
+
+    <p>Red - Republican | Blue - Democratic</p>
+
+    </main>
+
+  </body>
+
+  </html>
